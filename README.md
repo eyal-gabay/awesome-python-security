@@ -89,6 +89,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing known vulnerabilities in your dependencies.
 
 # Other
+- [Securing a Django app against SQL injection](https://eyalsec.com/research/securing-a-django-app-against-sql-injection) - The four places Django application code writes SQL text, the ORM methods that take a name from the request, and a regression test.
 
 ## Reporting Bugs
 
